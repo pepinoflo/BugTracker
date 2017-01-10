@@ -16,7 +16,7 @@ To run in Dev mode:
 2. Start Database: `npm run db`
 3. Start Nodemon: `npm run nodemon`
 4. Start Webpack dev server: `npm run dev-server`
-5. Go to localhost:8081
+5. Point your browser to http://localhost:8081
 
 To run in Production mode:
 --------------------------
@@ -24,3 +24,4 @@ To run in Production mode:
 2. Bundle frontend: `npm run bundle`
 3. Start Database: `npm run db`
 4. Start Node server: `npm run node`
+5. Point your browser to http://localhost:8080

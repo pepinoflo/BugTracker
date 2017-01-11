@@ -4,7 +4,6 @@ var $ = require('jquery');
 import BugFilter from './BugFilter.jsx';
 import BugTable from './BugTable.jsx';
 import BugAdd from './BugAdd.jsx';
-import '../styles/styles.css';
 
 var BugList = React.createClass({
     getInitialState: function () {

@@ -1,7 +1,7 @@
    BUG TRACKER
 =================
 
-A simple bug tracker created for education purpose, inspired from Vasan tutorial: https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz.
+A simple bug tracker created to discover the MERN stack, inspired from Vasan tutorial: https://hashnode.com/post/react-tutorial-using-mern-stack-ciiyus9m700qqge53mer0isxz.
 
 Tools and technologies used
 ---------------------------
